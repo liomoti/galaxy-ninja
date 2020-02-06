@@ -1,11 +1,9 @@
 # galaxy-ninja
-<hr>
 Galaxy Ninja - best mobile game ever!
 <br><br>
 Made by Moti & Reut Shaul
 
 # Getting started
-<hr>
 1. Connect your device to teh computer with USB cable 
 2. Download the Galaxy_Ninja folder
 3. Open it in Unity
@@ -15,5 +13,4 @@ Made by Moti & Reut Shaul
 7. Enjoy :)
 
 # Contact & feedback
-<hr>
-You can send us thoughts and feedback to our 
+You can send us thoughts and feedback on LinkedIn
