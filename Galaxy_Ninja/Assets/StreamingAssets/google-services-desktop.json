@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "818336628892",
+    "firebase_url": "https://galaxyninja-330d8.firebaseio.com",
+    "project_id": "galaxyninja-330d8",
+    "storage_bucket": "galaxyninja-330d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818336628892:android:367e22c8470ac521872d59",
+        "android_client_info": {
+          "package_name": "com.ShaulFamily.GalaxyNinja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818336628892-e0mllfhfh3ehh1brnvj0jkdono3s45lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6jYUxfBUOikJ9tv7AgxMZs0tpFSdKDcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818336628892-e0mllfhfh3ehh1brnvj0jkdono3s45lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
