@@ -1,7 +1,8 @@
 # galaxy-ninja
 Galaxy Ninja - best mobile game ever!
-<br><br>
+<br /><br />
 Made by Moti & Reut Shaul
+<br />
 <a href src="https://youtu.be/y30VJfmlH1Y">You can watch trailer on Youtube</a>
 
 # Getting started
