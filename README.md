@@ -2,6 +2,7 @@
 Galaxy Ninja - best mobile game ever!
 <br><br>
 Made by Moti & Reut Shaul
+<a href src="https://youtu.be/y30VJfmlH1Y">You can watch trailer on Youtube</a>
 
 # Getting started
 1. Connect your device to computer with USB cable 
